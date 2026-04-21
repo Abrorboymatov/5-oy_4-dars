@@ -5,8 +5,6 @@ import Instagram from '../assets/Instagram.svg'
 
 export default function Footer() {
     return (
-
-        <div>
             <div className="px-[30px] pb-[64px] grid grid-cols-2 gap-4 md:px-[160px] md:grid-cols-4">
                 <div className="flex flex-col gap-[30px]">
                     <div><img src={Logo} alt="" /></div>
@@ -48,17 +46,5 @@ export default function Footer() {
 
     
             </div>
-
-            <div className="bg-[#FFE6D2] py-[30px] py-[28px] flex justify-between items-center md:px-[160px]">
-                <div className='flex gap-2'>
-                    <img src="" alt="" />
-                    <a href="#">©2021 Finsweet</a>
-                </div>
-                <div>
-                    <a href="#"><img src="" alt="" /></a>
-         
-                </div>
-            </div>
-        </div>
     )
 }
