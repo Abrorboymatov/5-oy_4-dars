@@ -1,7 +1,7 @@
 import Komp from '../assets/Komp.png'
 import user from '../assets/user.svg'
 import location from '../assets/location.svg'
-import server from '../assets/server.svg'
+import server from '../assets/Server.svg'
 
 export default function Restangle() {
     return (

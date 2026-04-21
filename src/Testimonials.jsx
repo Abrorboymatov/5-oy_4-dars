@@ -25,7 +25,7 @@ export default function Testimonials() {
             <div><img src={Tayoqcha} alt="" /></div>
             <div className="flex flex-col gap-[30px] justify-center">
             <p className='text-[#232536] text-[24px]'>Finsweet has been a wonderful partner <br /> to work with. I have been a customer <br /> now for the past few months now and I <br /> have had nothing but positive experiences!</p>
-            <div flex flex-row>
+            <div className="flex flex-row">
                 <div><img src={Negr} alt="" /></div>
                 <div className="flex flex-col gap-2">
                     <h4 className='text-[#232536] text-[16px]'>Johnny Andro</h4>
