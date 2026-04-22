@@ -3,8 +3,8 @@ import Ayol from '../assets/Ayol.svg'
 import Kim from '../assets/Kim.svg'
 import Yulduz from '../assets/Yulduz.svg'
 import Nuqta from '../assets/Nuqta.svg'
-import Left from '../assets/Left.svg'
-import Right from '../assets/Right.svg'
+import Left from '../assets/left.svg'
+import Right from '../assets/right.svg'
 
 
 
